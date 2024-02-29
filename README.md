@@ -9,7 +9,7 @@ The **personal milestones table** outlines key milestones for practical programm
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/claramorett
 | 1    | Github Profile Page                         | https://github.com/claramorett/claramorett                                  |
-| 1    | Commit and Push Change from Command Line    | https://github.com/claramorett/ppchem/commit/`commit-nr`                |
+| 1    | Commit and Push Change from Command Line    | https://github.com/claramorett/ppchem/commit/f2a8cff47b452b9ba3f4e002b479b625db13f7bd|
 | 1    | Create a New Branch                         | https://github.com/claramorett/ppchem/tree/new-branch-name            |
 | 1    | Create a conda environment                  | https://github.com/claramorett/ppchem/blob/main/env.yml      |
 | 1    | Fork a Repo                                 | https://github.com/claramorett/practical-programming-in-chemistry-milestones |
