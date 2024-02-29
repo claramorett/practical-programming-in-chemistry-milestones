@@ -8,7 +8,6 @@ The **personal milestones table** outlines key milestones for practical programm
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/claramorett
-| 
 | 1    | Github Profile Page                         | https://github.com/claramorett/claramorett                                  |
 | 1    | Commit and Push Change from Command Line    | https://github.com/claramorett/ppchem/commit/`commit-nr`                |
 | 1    | Create a New Branch                         | https://github.com/claramorett/ppchem/tree/`new-branch-name`            |
